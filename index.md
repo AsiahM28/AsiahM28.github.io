@@ -15,11 +15,13 @@ class along with trying to get familiar with coding is a memory I'll never forge
 lecture while also referring to my notes and communicating with my group.
 
 * Lab 3
+
 Lab 3 was also another one of my favorite labs, as I started learning both input and output variables. Part one was more straightforward,
 as part two was more difficult for me. Although I specifically remember this lab as it required a lot more questions that needed to be 
 answered, but finally came together in the end. 
 
 * Lab 10 
+
 Lab 10 was another one of my favorites. It focused on both functions and vectors and was a lot more tedious. I also enjoyed how
 it was only 1 part, however, part one was a little longer and took longer than expected. Overall, Lab 10 was my absolute favorite because
 it challenged me quite well. 

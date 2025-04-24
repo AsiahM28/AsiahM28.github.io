@@ -10,8 +10,7 @@ My GitHub page is https://github.com/AsiahM28
 
 * Lab 1
 
-Lab 1 was my favorite as it was one of the first labs that I had completed. The experience of being in my first Computer Science
-class along with trying to get familiar with coding, is a memory I'll never forget. I was able to use what I had learned in my lecture class while also referring to my notes and communicating with my group.This was a good stepping stone as far as labs. 
+Lab 1 was my favorite as it was one of the first labs that I had completed. The experience of being in my first Computer Science class along with trying to get familiar with coding, is a memory I'll never forget. I was able to use what I had learned in my lecture class while also referring to my notes and communicating with my group.This was a good stepping stone as far as labs. 
 
 * Lab 3
 
